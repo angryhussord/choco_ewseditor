@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ewseditor</id>
+    <version>1.18</version>
+    <title>ewseditor (Install)</title>
+    <authors>Dseph</authors>
+    <projectUrl>https://ewseditor.codeplex.com/</projectUrl>
+    <licenseUrl>https://ewseditor.codeplex.com/license</licenseUrl>
+    <packageSourceUrl>https://github.com/angryhussord/choco_ewseditor</packageSourceUrl>
+    <releaseNotes>https://ewseditor.codeplex.com/releases/</releaseNotes>
+    <projectSourceUrl>https://ewseditor.codeplex.com/</projectSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>ewseditor admin exchange ews .net dotnet web services api</tags>
+    <summary>EWS Editor</summary>
+    <description>EWSEditor has three goals:
+Demonstrate the Exchange Web Services Managed API functionality and simplicity to developers through its source code. 
+Demonstrate the Exchange Web Services SOAP traffic used to perform actions initiated through an explorer user interface. 
+Assist non-developers in debugging and understanding Exchange stores by exploring items, folders, and their properties in depth. 
+
+Each release of EWSEditor includes the distribution of the EWS Managed API it was built for. EWSEditor uses .NET Framework version 4.5.1 which can be downloaded here: .NET Framework 4.5.1. The project is under Visual Studio 2013. This version of EwsEditor uses EWS Managed API built from GIT. The EWS Managed API requires a minimal of .NET 3.5. A copy of the 2.2 version of the EWS managed API is included in case you wish to use it instead of the version built from GIT.</description>
+    <dependencies>
+      <dependency id="" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
