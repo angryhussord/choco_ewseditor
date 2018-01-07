@@ -3,13 +3,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ewseditor</id>
-    <version>1.18</version>
+    <version>1.19</version>
     <title>ewseditor (Install)</title>
     <authors>Dseph</authors>
-    <projectUrl>https://ewseditor.codeplex.com/</projectUrl>
-    <licenseUrl>https://ewseditor.codeplex.com/license</licenseUrl>
+    <projectUrl>https://github.com/dseph/EwsEditor/</projectUrl>
+    <licenseUrl>https://github.com/dseph/EwsEditor/</licenseUrl>
     <packageSourceUrl>https://github.com/angryhussord/choco_ewseditor</packageSourceUrl>
-    <releaseNotes>https://ewseditor.codeplex.com/releases/</releaseNotes>
+    <releaseNotes>https://github.com/dseph/EwsEditor/releases</releaseNotes>
     <projectSourceUrl>https://ewseditor.codeplex.com/</projectSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>ewseditor admin exchange ews .net dotnet web services api</tags>
