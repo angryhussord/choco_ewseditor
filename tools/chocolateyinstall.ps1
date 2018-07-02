@@ -2,14 +2,14 @@
 
 $packageName= 'ewseditor'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/dseph/EwsEditor/releases/download/1.19/EWSEditor.1.19.-.Bin.zip'
+$url        = 'https://github.com/dseph/EwsEditor/files/1989889/EwsEditor.1.20.-.bin.zip'
 $installDir = "c:\tools\EwsEditor\";
 
 $packageArgs = @{
   packageName   = $packageName
   url           = $url
   unzipLocation = $installDir
-  checksum      = '56EC5806B38FC39FCC10DE84C876E7A64550C5C2E900EDB3FC353F7A17332782'
+  checksum      = '9FC5842FA372B8A6F4386C9BD31390C8D4B116AB3AEA68E4DA1DD3B479AF82E5'
   checksumType  = 'sha256'
 }
 

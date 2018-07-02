@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ewseditor</id>
-    <version>1.19</version>
+    <version>1.20</version>
     <title>ewseditor (Install)</title>
     <authors>Dseph</authors>
     <projectUrl>https://github.com/dseph/EwsEditor/</projectUrl>
